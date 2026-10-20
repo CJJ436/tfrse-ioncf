@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "TF-RSE-IonCF v3.2: A Unified Closed-Form Model for the Total Electron Binding Energy of All Neutral Atoms and Ions (Z = 1-92, q = 0 to Z-1)"
+authors:
+  - family-names: Cheng
+    given-names: Jinjun
+  - family-names: Cheng
+    given-names: Dian
+version: "3.2"
+license: PolyForm-Noncommercial-1.0.0
+repository-code: "https://github.com/YOUR-USERNAME/tfrse-ioncf"
+preferred-citation:
+  type: article
+  title: "TF-RSE-IonCF: A Unified Closed-Form Model for the Total Electron Binding Energy of All Neutral Atoms and Ions (Z = 1-92, q = 0 to Z-1)"
+  authors:
+    - family-names: Cheng
+      given-names: Jinjun
+    - family-names: Cheng
+      given-names: Dian
+  journal: "Atomic Data and Nuclear Data Tables"
+  year: 2026
+  notes: "Accepted for publication (manuscript ADNDT-D-26-00055R2). Volume/pages/DOI to be updated upon publication."
