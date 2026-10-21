@@ -9,6 +9,7 @@ authors:
     given-names: Dian
 version: "3.2"
 license: PolyForm-Noncommercial-1.0.0
+doi: 10.5281/zenodo.23524783
 repository-code: "https://github.com/CJJ436/tfrse-ioncf"
 preferred-citation:
   type: article
