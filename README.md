@@ -1,6 +1,6 @@
 # TF-RSE-IonCF v3.2
 
-[![DOI]https://zenodo.org/badge/1426650227.svg)](https://doi.org/10.5281/zenodo.23524783)
+[![DOI](https://zenodo.org/badge/1426650227.svg)](https://doi.org/10.5281/zenodo.23524783)
 
 **A Unified Closed-Form Model for the Total Electron Binding Energy of All Neutral Atoms and Ions (Z = 1–92, q = 0 to Z−1)**
 
