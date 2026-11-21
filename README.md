@@ -1,5 +1,13 @@
 # TF-RSE-IonCF v3.2
 
+## 正式发表信息
+
+- 期刊：[Atomic Data and Nuclear Data Tables]
+- DOI：[ 10.1016/j.adt.2026.101841](https://doi.org/ 10.1016/j.adt.2026.101841)
+- 说明：本仓库为预印本存档，正式引用请以期刊发表版为准。
+
+**Citation:** Cheng, J. [TF-RSE-IonCF v3.2: a unified closed-form model for the total electron binding energy of all neutral atoms and ions (Z = 1–92, q = 0 to Z–1)]. [Atomic Data and Nuclear Data Tables] (2026).
+
 [![DOI](https://zenodo.org/badge/1426650227.svg)](https://doi.org/10.5281/zenodo.23524783)
 
 **A Unified Closed-Form Model for the Total Electron Binding Energy of All Neutral Atoms and Ions (Z = 1–92, q = 0 to Z−1)**
