@@ -1,0 +1,7 @@
+The authors have upgraded the model from version 3.2 to version 3.3, with significant improvements in the following five areas:
+1. N = 1 anchor accuracy. A finite-nuclear-size + QED correction, δ₁ₛ, has been introduced, reducing the maximum error for hydrogen-like ions from +0.364% (U) to within ±0.016%; the error for U⁹⁰⁺ improved from +0.682% to +0.321%.
+2. Coverage. A new negative-ion column (N = Z+1) has been added for 78 elements, anchored exactly to experimental electron affinities, extending the grid from 4278 to 4356 points.
+3. Uncertainty quantification. The zonal error table has been upgraded to a per-point uncertainty model U(Z, N), calibrated on the full residual set, with a measured coverage of 99.86% (99.25% ± 0.24% in holdout validation), restoring the intended 95% semantics.
+4. Full-grid accuracy. The mean absolute relative error improved from 0.260% to 0.254%.
+5. Zero cost. All 29 fitted parameters remain frozen, and every published v3.2 statistic is inherited by construction; safeguard corrections decreased from 646 to 640 points, with zero violations in all physical-consistency checks.
+For the v3.3 main document and source code, please contact the author, Jinjun Cheng (email: cdcdcd999@126.com).
